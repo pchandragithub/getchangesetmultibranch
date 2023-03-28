@@ -1,3 +1,5 @@
+@shared-library('pipeline-library-demo')_
+
 pipeline {
   agent any
   
